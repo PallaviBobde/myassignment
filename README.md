@@ -21,14 +21,14 @@ To run this project
 ```
 This clones the repo.
 
-2.cd into the new folder.
+2. cd into the new folder.
 Now type -
 ```bash
   npm install
 ```
 This installs the required dependencies.
 
-3.Now, to run the React project type -
+3. Now, to run the React project type -
 ```bash
   npm start
 ```
