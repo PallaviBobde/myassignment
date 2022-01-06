@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PallaviBobde/myassignment.git/static/css/main.f501e95d.css",
+    "main.js": "/PallaviBobde/myassignment.git/static/js/main.1fe07665.js",
+    "index.html": "/PallaviBobde/myassignment.git/index.html",
+    "main.f501e95d.css.map": "/PallaviBobde/myassignment.git/static/css/main.f501e95d.css.map",
+    "main.1fe07665.js.map": "/PallaviBobde/myassignment.git/static/js/main.1fe07665.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f501e95d.css",
+    "static/js/main.1fe07665.js"
+  ]
+}
